@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Uche Ugochukwu |
+| **LinkedIn** | [uche-u-327735190](https://www.linkedin.com/in/uche-u-327735190/) |
+| **Location** | Nigeria |
+| **Background** | AWS Cloud Engineer |
+| **Goal** | To Advance in Agentic Devops |
 
 ---
 
